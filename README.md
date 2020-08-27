@@ -11,7 +11,7 @@ Any ideas about how to use other buttons are welcome.
 
 ## Howto
 
-1. Download the script and unzip it. You will get a `ArturiaEssentialForFLStudio` directory.
+1. Download the script and unzip it. (Green button `Code` > Download ZIP) You will get a `ArturiaEssentialForFLStudio` directory.
 2. Place this directory into `Documents\Image-Line\FL Studio\Settings\Hardware\` (default place. in some case you may have placed this directory elsewhere)
 3. In Fl Studio got to MIDI Settings. In input , at the line of `MIDIIN2 (Arturia Keylab Essential)`, set controller type to `Arturia Essential Controller (user)`
 4. Set your Arturia Keylab Essential Keyboard to DAW mode by pressing `Map Select` then PAD 2.
