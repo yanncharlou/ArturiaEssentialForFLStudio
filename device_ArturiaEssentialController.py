@@ -137,10 +137,8 @@ class ArturiaKeylabEssentialCtrl():
 		elif event.data1 == buttons['REW'] :
 			if event.data2 == button_pressed :
 				transport.rewind(2); #SS_Start	
-				self.setLed('LOOP', True);				
 			else :
 				transport.rewind(0); #SS_Stop
-				self.setLed('LOOP', False)
 				
 		elif event.data1 == buttons['FFW'] :
 			if event.data2 == button_pressed :
