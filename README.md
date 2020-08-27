@@ -1,4 +1,4 @@
-# Arturia Keylab Essential for FLStudio
+# Arturia Keylab Essential for FL Studio
 
 This script is intended to allow using controls of Arturia Keylab Essential keyboard under FL Studio.
 I've tested it with my own Arturia Essential 61. Should work with other keyboards of this line.
@@ -18,6 +18,6 @@ Any ideas about how to use other buttons are welcome.
 
 Et voilà. ;-)
 
-You can click on `watch` on the upper right corner of this page to get advised on news releases.
+You can click on `watch` on the upper right corner of this page to get advised on new releases.
 
 Have fun and tell me what function I should add on wich button in next release.
