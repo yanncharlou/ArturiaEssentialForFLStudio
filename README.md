@@ -1,6 +1,6 @@
-# Arturia Essential for FLStudio
+# Arturia Keylab Essential for FLStudio
 
-This script is intended to allow using all controls of Arturia Essential keyboard under FL Studio.
+This script is intended to allow using all controls of Arturia Keylab Essential keyboard under FL Studio.
 Testing with my own Arturia Essential 61. Should work with other keyboards of this line.
 
 To use it you have to choose the DAW map on your keyboard. (Press Map Select + PAD 2)
